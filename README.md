@@ -4,8 +4,8 @@ Exercism Exercises in Dataweave
 
 ## Setup
 
-The exercises currently target Dataweave versions 2.X. Detailed installation instructions can be found at
-[[[https://developer.mulesoft.com/tutorials-and-howtos/dataweave/dataweave-extension-vscode-getting-started/](https://developer.mulesoft.com/tutorials-and-howtos/dataweave/dataweave-extension-vscode-getting-started/)](https://developer.mulesoft.com/tutorials-and-howtos/dataweave/dataweave-extension-vscode-getting-started/)]
+The exercises currently target Dataweave versions 2.X. Detailed installation instructions can be found at 
+[https://developer.mulesoft.com/tutorials-and-howtos/dataweave/dataweave-extension-vscode-getting-started/](https://developer.mulesoft.com/tutorials-and-howtos/dataweave/dataweave-extension-vscode-getting-started/)
 ## Testing
 
 ---
