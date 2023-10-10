@@ -1,12 +1,11 @@
 # Exercism Dataweave Track
 
-Dataweave Exercises in Elixir
+Exercism Exercises in Dataweave
 
 ## Setup
 
 The exercises currently target Dataweave versions 2.X. Detailed installation instructions can be found at
-[[https://elixir-lang.org/install.html](https://developer.mulesoft.com/tutorials-and-howtos/dataweave/dataweave-extension-vscode-getting-started/)]([https://elixir-lang.org/install.html](https://developer.mulesoft.com/tutorials-and-howtos/dataweave/dataweave-extension-vscode-getting-started/))
-
+[[[https://elixir-lang.org/install.html](https://developer.mulesoft.com/tutorials-and-howtos/dataweave/dataweave-extension-vscode-getting-started/)](https://developer.mulesoft.com/tutorials-and-howtos/dataweave/dataweave-extension-vscode-getting-started/)]
 ## Testing
 
 ---
