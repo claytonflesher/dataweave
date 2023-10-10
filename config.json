@@ -1,0 +1,76 @@
+{
+  "language": "Dataweave",
+  "slug": "dataweave",
+  "active": false,
+  "status": {
+    "concept_exercises": false,
+    "test_runner": false,
+    "representer": false,
+    "analyzer": false
+  },
+  "blurb": "DataWeave is the programming language designed by MuleSoft for data transformation. It is also the expression language Mule runtime engine uses to configure components and connectors.",
+  "version": 3,
+  "online_editor": {
+    "indent_style": "space",
+    "indent_size": 4
+  },
+  "files": {
+    "solution": [
+      "src/main/dw/%{pascal_slug}.dwl"
+    ],
+    "test": [
+      "src/test/dw/%{pascal_slug}Test.exs"
+    ],
+    "example": [
+      ".meta/example.ex"
+    ],
+    "exemplar": [
+      ".meta/exemplar.ex"
+    ]
+  },
+  "exercises": {
+    "practice": [
+      {
+        "slug": "hello-world",
+        "name": "Hello World",
+        "uuid": "08ebb0bd-0f1e-498d-ab92-1676f0920002",
+        "practices": [
+          "basics"
+        ],
+        "prerequisites": [],
+        "difficulty": 1
+      },
+    ],
+    "foregone": [
+    ]
+  },
+  "concepts": [
+  ],
+  "key_features": [
+    {
+      "title": "Functional",
+      "content": "Includes pure, first-class, and high-order functions, composition, lambdas, and immutablility.",
+      "icon": "functional"
+    },
+    {
+      "title": "Statically typed",
+      "content": "Every variable and function has a type known at compile time.",
+      "icon": "dynamically-typed"
+    },
+    {
+      "title": "Immutable",
+      "content": "All data in Dataweave is immutable.",
+      "icon": "immutable"
+    }
+  ],
+  "tags": [
+    "paradigm/functional",
+    "typing/dynamic",
+    "typing/strong",
+    "execution_mode/compiled",
+    "platform/windows",
+    "platform/mac",
+    "platform/linux",
+    "runtime/jvm"
+  ]
+}
